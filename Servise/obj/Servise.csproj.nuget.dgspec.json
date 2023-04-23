@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Servise.csproj": {}
+    "I:\\проекты\\Kinoteka\\Servise\\Servise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj": {
+    "I:\\проекты\\Kinoteka\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj",
+        "projectUniqueName": "I:\\проекты\\Kinoteka\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj",
+        "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\kinoteka\\Data\\obj\\",
+        "outputPath": "I:\\проекты\\Kinoteka\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj": {
+    "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj",
+        "projectUniqueName": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj",
+        "projectPath": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\kinoteka\\Repository\\obj\\",
+        "outputPath": "I:\\проекты\\Kinoteka\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj"
+              "I:\\проекты\\Kinoteka\\Data\\Data.csproj": {
+                "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Servise.csproj": {
+    "I:\\проекты\\Kinoteka\\Servise\\Servise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Servise.csproj",
+        "projectUniqueName": "I:\\проекты\\Kinoteka\\Servise\\Servise.csproj",
         "projectName": "Servise",
-        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Servise.csproj",
+        "projectPath": "I:\\проекты\\Kinoteka\\Servise\\Servise.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\kinoteka\\Servise\\obj\\",
+        "outputPath": "I:\\проекты\\Kinoteka\\Servise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,11 +174,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj"
+              "I:\\проекты\\Kinoteka\\Data\\Data.csproj": {
+                "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj"
               },
-              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj"
+              "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj": {
+                "projectPath": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj"
               }
             }
           }

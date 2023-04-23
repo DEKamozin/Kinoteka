@@ -3691,7 +3691,7 @@
           "bin/placeholder/Repository.dll": {}
         }
       },
-      "Servise/1.0.0": {
+      "Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -3701,10 +3701,10 @@
           "Repository": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Servise.dll": {}
+          "bin/placeholder/Service.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Servise.dll": {}
+          "bin/placeholder/Service.dll": {}
         }
       }
     }
@@ -10655,10 +10655,10 @@
       "path": "../Repository/Repository.csproj",
       "msbuildProject": "../Repository/Repository.csproj"
     },
-    "Servise/1.0.0": {
+    "Service/1.0.0": {
       "type": "project",
-      "path": "../Servise/Servise.csproj",
-      "msbuildProject": "../Servise/Servise.csproj"
+      "path": "../Servise/Service.csproj",
+      "msbuildProject": "../Servise/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -10668,7 +10668,7 @@
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.6",
       "Repository >= 1.0.0",
-      "Servise >= 1.0.0"
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -10677,11 +10677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Kinoteka\\Kinoteka.csproj",
+      "projectUniqueName": "I:\\проекты\\Kinoteka\\Kinoteka\\Kinoteka.csproj",
       "projectName": "Kinoteka",
-      "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Kinoteka\\Kinoteka.csproj",
+      "projectPath": "I:\\проекты\\Kinoteka\\Kinoteka\\Kinoteka.csproj",
       "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\kinoteka\\Kinoteka\\obj\\",
+      "outputPath": "I:\\проекты\\Kinoteka\\Kinoteka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10698,14 +10698,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj"
+            "I:\\проекты\\Kinoteka\\Data\\Data.csproj": {
+              "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj"
             },
-            "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj"
+            "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj": {
+              "projectPath": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Servise.csproj": {
-              "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Servise.csproj"
+            "I:\\проекты\\Kinoteka\\Servise\\Service.csproj": {
+              "projectPath": "I:\\проекты\\Kinoteka\\Servise\\Service.csproj"
             }
           }
         }

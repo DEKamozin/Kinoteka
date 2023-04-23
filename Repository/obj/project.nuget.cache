@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nC1DluVhwOx6aRIzXhZ6smfFMglqVLiOCZ35guQ/iyz8X8Xd5X0VyPajgvsjXiOGaAiuDWdp6wPmRiGJyBRGtQ==",
+  "dgSpecHash": "lwlOMpM9to5It15v0MO9YZTbeARUu0nVFcs+8zo5iQN7/TW0CHwwloXaCQCqGMEdauiqjO0c3fJgRqAOaZt+Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj",
+  "projectFilePath": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmitr\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dmitr\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Repository.FilmRepo
 {
-    public class FilmRepository : iFilmRepository
+    public class FilmRepository : IFilmRepository
     {
         private readonly ApplicationContext _context;
 

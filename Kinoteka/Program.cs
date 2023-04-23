@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Repository;
+using Repository.FilmRepo;
+using Servise.FilmSer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,10 @@ builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServe
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped(typeof(IFilmRepository), typeof(FilmRepository));
+
+builder.Services.AddTransient<IFilmService, FilmService>();
 
 var app = builder.Build();
 

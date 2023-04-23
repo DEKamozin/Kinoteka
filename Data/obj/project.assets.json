@@ -10614,11 +10614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj",
+      "projectUniqueName": "I:\\проекты\\Kinoteka\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj",
+      "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\obj\\",
+      "outputPath": "I:\\проекты\\Kinoteka\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",

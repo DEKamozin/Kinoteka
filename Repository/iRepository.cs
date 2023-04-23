@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Repository
 {
-    public interface iRepository<T>
+    public interface IRepository<T>
     {
         List<T> GetAll();
         T Get(int id);

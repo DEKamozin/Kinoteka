@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Repository.FilmRepo
 {
-    public interface iFilmRepository : iRepository<Film>
+    public interface IFilmRepository : IRepository<Film>
     {
     }
 }
