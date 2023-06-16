@@ -1,5 +1,4 @@
 C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\bin\Debug\net7.0\Data.deps.json
-C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\bin\Debug\net7.0\Data.runtimeconfig.json
 C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\bin\Debug\net7.0\Data.dll
 C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\bin\Debug\net7.0\Data.pdb
 C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
@@ -10,5 +9,28 @@ C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\obj\Debug\net7.0\D
 C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\obj\Debug\net7.0\Data.dll
 C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\obj\Debug\net7.0\refint\Data.dll
 C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\obj\Debug\net7.0\Data.pdb
-C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
 C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Data\obj\Debug\net7.0\ref\Data.dll
+I:\проекты\Kinoteka\Data\bin\Debug\net7.0\Data.deps.json
+I:\проекты\Kinoteka\Data\bin\Debug\net7.0\Data.dll
+I:\проекты\Kinoteka\Data\bin\Debug\net7.0\Data.pdb
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\Data.dll
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\refint\Data.dll
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\Data.pdb
+I:\проекты\Kinoteka\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\user\Desktop\Kinoteka\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\user\Desktop\Kinoteka\Data\bin\Debug\net7.0\Data.dll
+C:\Users\user\Desktop\Kinoteka\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\Data.dll
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\user\Desktop\Kinoteka\Data\obj\Debug\net7.0\ref\Data.dll

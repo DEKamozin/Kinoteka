@@ -13,7 +13,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "7.0.5",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.6",
           "Repository": "1.0.0",
-          "Servise": "1.0.0"
+          "Service": "1.0.0"
         },
         "runtime": {
           "Kinoteka.dll": {}
@@ -2276,10 +2276,6 @@
         }
       },
       "Data/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.6"
-        },
         "runtime": {
           "Data.dll": {}
         }
@@ -2287,22 +2283,19 @@
       "Repository/1.0.0": {
         "dependencies": {
           "Data": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.6"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
         },
         "runtime": {
           "Repository.dll": {}
         }
       },
-      "Servise/1.0.0": {
+      "Service/1.0.0": {
         "dependencies": {
           "Data": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.6",
           "Repository": "1.0.0"
         },
         "runtime": {
-          "Servise.dll": {}
+          "Service.dll": {}
         }
       }
     }
@@ -3583,7 +3576,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Servise/1.0.0": {
+    "Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

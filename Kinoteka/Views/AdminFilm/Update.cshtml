@@ -1,0 +1,32 @@
+﻿@model Kinoteka.Models.ViewModel.FilmViewModel
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h1>Редактирование фильма</h1>
+    </div>
+    <div class="card-body">
+        <form asp-controller="AdminFilm" asp-action="Update" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label">Название</label>
+                <input type="text" class="form-control" asp-for="Name">
+
+            </div>
+            <div class="mb-3">
+                <label asp-for="Price" class="form-label">Цена</label>
+                <input type="number" class="form-control" asp-for="Price">
+            </div>
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label">Описание</label>
+                <textarea type="text" class="form-control" asp-for="Description"> </textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Сохранить</button>
+
+        </form>
+    </div>
+</div>
+

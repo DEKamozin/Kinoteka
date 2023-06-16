@@ -1,0 +1,51 @@
+I:\проекты\Kinoteka\Servise\bin\Debug\net7.0\Service.deps.json
+I:\проекты\Kinoteka\Servise\bin\Debug\net7.0\Service.dll
+I:\проекты\Kinoteka\Servise\bin\Debug\net7.0\Service.pdb
+I:\проекты\Kinoteka\Servise\bin\Debug\net7.0\Data.dll
+I:\проекты\Kinoteka\Servise\bin\Debug\net7.0\Repository.dll
+I:\проекты\Kinoteka\Servise\bin\Debug\net7.0\Data.pdb
+I:\проекты\Kinoteka\Servise\bin\Debug\net7.0\Repository.pdb
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\Service.AssemblyInfo.cs
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.CopyComplete
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\Service.dll
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\refint\Service.dll
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\Service.pdb
+I:\проекты\Kinoteka\Servise\obj\Debug\net7.0\ref\Service.dll
+C:\Users\user\Desktop\Kinoteka\Servise\bin\Debug\net7.0\Service.deps.json
+C:\Users\user\Desktop\Kinoteka\Servise\bin\Debug\net7.0\Service.dll
+C:\Users\user\Desktop\Kinoteka\Servise\bin\Debug\net7.0\Service.pdb
+C:\Users\user\Desktop\Kinoteka\Servise\bin\Debug\net7.0\Data.dll
+C:\Users\user\Desktop\Kinoteka\Servise\bin\Debug\net7.0\Repository.dll
+C:\Users\user\Desktop\Kinoteka\Servise\bin\Debug\net7.0\Data.pdb
+C:\Users\user\Desktop\Kinoteka\Servise\bin\Debug\net7.0\Repository.pdb
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\Service.dll
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\refint\Service.dll
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\Service.pdb
+C:\Users\user\Desktop\Kinoteka\Servise\obj\Debug\net7.0\ref\Service.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\bin\Debug\net7.0\Service.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\bin\Debug\net7.0\Service.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\bin\Debug\net7.0\Service.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\bin\Debug\net7.0\Data.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\bin\Debug\net7.0\Repository.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\bin\Debug\net7.0\Data.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\bin\Debug\net7.0\Repository.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\Service.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\refint\Service.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\Service.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Kinoteka\Servise\obj\Debug\net7.0\ref\Service.dll

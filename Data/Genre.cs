@@ -8,6 +8,7 @@ namespace Data
 {
     public class Genre : BaseEntity
     {
-        public string Name { get; set; }
+        public string? Name { get; set; }
+        public List<Film>? Films { get; set; }
     }
 }

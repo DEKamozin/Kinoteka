@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\проекты\\Kinoteka\\Kinoteka\\Kinoteka.csproj": {}
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Kinoteka\\Kinoteka.csproj": {}
   },
   "projects": {
-    "I:\\проекты\\Kinoteka\\Data\\Data.csproj": {
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\проекты\\Kinoteka\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "I:\\проекты\\Kinoteka\\Data\\obj\\",
+        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,22 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -71,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "I:\\проекты\\Kinoteka\\Kinoteka\\Kinoteka.csproj": {
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Kinoteka\\Kinoteka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\проекты\\Kinoteka\\Kinoteka\\Kinoteka.csproj",
+        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Kinoteka\\Kinoteka.csproj",
         "projectName": "Kinoteka",
-        "projectPath": "I:\\проекты\\Kinoteka\\Kinoteka\\Kinoteka.csproj",
+        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Kinoteka\\Kinoteka.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "I:\\проекты\\Kinoteka\\Kinoteka\\obj\\",
+        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\kinoteka\\Kinoteka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,20 +77,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "I:\\проекты\\Kinoteka\\Data\\Data.csproj": {
-                "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj"
+              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj"
               },
-              "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj": {
-                "projectPath": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj"
+              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj"
               },
-              "I:\\проекты\\Kinoteka\\Servise\\Service.csproj": {
-                "projectPath": "I:\\проекты\\Kinoteka\\Servise\\Service.csproj"
+              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Service.csproj": {
+                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Service.csproj"
               }
             }
           }
@@ -155,18 +140,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj": {
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "I:\\проекты\\Kinoteka\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\kinoteka\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -183,8 +168,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "I:\\проекты\\Kinoteka\\Data\\Data.csproj": {
-                "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj"
+              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj"
               }
             }
           }
@@ -208,10 +193,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.6, )"
             }
           },
           "imports": [
@@ -230,18 +211,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "I:\\проекты\\Kinoteka\\Servise\\Service.csproj": {
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\проекты\\Kinoteka\\Servise\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "I:\\проекты\\Kinoteka\\Servise\\Service.csproj",
+        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Servise\\Service.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "I:\\проекты\\Kinoteka\\Servise\\obj\\",
+        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\kinoteka\\Servise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -258,11 +239,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "I:\\проекты\\Kinoteka\\Data\\Data.csproj": {
-                "projectPath": "I:\\проекты\\Kinoteka\\Data\\Data.csproj"
+              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Data\\Data.csproj"
               },
-              "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj": {
-                "projectPath": "I:\\проекты\\Kinoteka\\Repository\\Repository.csproj"
+              "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Kinoteka\\Repository\\Repository.csproj"
               }
             }
           }
@@ -276,22 +257,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -308,7 +273,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
